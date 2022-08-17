@@ -1,0 +1,15 @@
+.cor{
+    width: 200px;
+    height: 200px;
+    background: #808cff;
+}
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: 0;
+    background: #981aff;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
